@@ -11,6 +11,8 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar_5/Seminar_5.iml" filepath="$PROJECT_DIR$/Seminar_5/Seminar_5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar_5_Adapter/Seminar_5_Adapter.iml" filepath="$PROJECT_DIR$/Seminar_5_Adapter/Seminar_5_Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar_5_Facade/Seminar_5_Facade.iml" filepath="$PROJECT_DIR$/Seminar_5_Facade/Seminar_5_Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar_6_Composite/Seminar_6_Composite.iml" filepath="$PROJECT_DIR$/Seminar_6_Composite/Seminar_6_Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar_6_Decorator/Seminar_6_Decorator.iml" filepath="$PROJECT_DIR$/Seminar_6_Decorator/Seminar_6_Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/SimpleFactory/SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar_4/Singleton.iml" filepath="$PROJECT_DIR$/Seminar_4/Singleton.iml" />
     </modules>
