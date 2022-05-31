@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Builder/Builder.iml" filepath="$PROJECT_DIR$/Builder/Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cerinta_9/Cerinta_9.iml" filepath="$PROJECT_DIR$/Cerinta_9/Cerinta_9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chain/Chain.iml" filepath="$PROJECT_DIR$/Chain/Chain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChainAltfel/ChainAltfel.iml" filepath="$PROJECT_DIR$/ChainAltfel/ChainAltfel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Command/Command.iml" filepath="$PROJECT_DIR$/Command/Command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompositeTest/CompositeTest.iml" filepath="$PROJECT_DIR$/CompositeTest/CompositeTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Facade/Facade.iml" filepath="$PROJECT_DIR$/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Flyweight/Flyweight.iml" filepath="$PROJECT_DIR$/Flyweight/Flyweight.iml" />
@@ -19,8 +24,11 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar_6_Decorator/Seminar_6_Decorator.iml" filepath="$PROJECT_DIR$/Seminar_6_Decorator/Seminar_6_Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/SimpleFactory/SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar_4/Singleton.iml" filepath="$PROJECT_DIR$/Seminar_4/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/State/State.iml" filepath="$PROJECT_DIR$/State/State.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Strategy/Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Template/Template.iml" filepath="$PROJECT_DIR$/Template/Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Testare/Testare.iml" filepath="$PROJECT_DIR$/Testare/Testare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Teste/Teste.iml" filepath="$PROJECT_DIR$/Teste/Teste.iml" />
     </modules>
   </component>
 </project>
